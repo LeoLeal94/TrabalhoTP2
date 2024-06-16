@@ -3,6 +3,7 @@
  // Script de Controle de Vendas de loja de produtos escolares com conceito POO, usando diagrama UML sem framework
  // Início do programa
 
+// Comentario
 // Classes
 
 // Cliente
