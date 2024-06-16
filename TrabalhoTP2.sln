@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TrabalhoTP2", "TrabalhoTP2\TrabalhoTP2.vbproj", "{467A0020-22AB-4633-8BB1-5904EDF81182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467A0020-22AB-4633-8BB1-5904EDF81182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467A0020-22AB-4633-8BB1-5904EDF81182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467A0020-22AB-4633-8BB1-5904EDF81182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467A0020-22AB-4633-8BB1-5904EDF81182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A3F6B4C-9970-44F3-BC52-D92AE7DA11CC}
+	EndGlobalSection
+EndGlobal
